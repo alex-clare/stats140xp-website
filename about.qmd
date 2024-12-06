@@ -1,9 +1,11 @@
 ---
-title: "About"
+title: "Projects"
 ---
 
-About this site
+## Stats 101B Final Project
 
-```{r}
-1 + 1
-```
+[Link to download](stats101b_finalproject.pdf)
+
+## Stats 140XP Final Project
+
+[Link to download](/stats140xp_finalproject)

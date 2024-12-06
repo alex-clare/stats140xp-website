@@ -1,11 +1,29 @@
 ---
-title: "stats140xp_website"
+title: "Alex Clare"
+about:
+  template: jolla
+  image: IMG_6459.JPG
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/alex-clare
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alex-clare-a1217a29a/
+    - text: Email
+      url: "mailto:alexclare23@yahoo.com"
 ---
 
-This is a Quarto website.
+## Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+University of California, Los Angeles
 
-```{r}
-1 + 3
-```
+Statistics and Data Science Major
+
+Film, Television, and Digital Media Minor
+
+## Activities
+
+UCLA Men's Club Ultimate Frisbee
+
+UCLA Summer Film Institute

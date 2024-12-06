@@ -2,15 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "stats140xp_website",
+    "title": "Alex Clare",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "University of California, Los Angeles\nStatistics and Data Science Major\nFilm, Television, and Digital Media Minor"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Alex Clare",
+    "section": "",
+    "text": "University of California, Los Angeles\nStatistics and Data Science Major\nFilm, Television, and Digital Media Minor"
+  },
+  {
+    "objectID": "index.html#activities",
+    "href": "index.html#activities",
+    "title": "Alex Clare",
+    "section": "Activities",
+    "text": "Activities\nUCLA Men’s Club Ultimate Frisbee\nUCLA Summer Film Institute"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Link to download"
+  },
+  {
+    "objectID": "about.html#stats-101b-final-project",
+    "href": "about.html#stats-101b-final-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Link to download"
+  },
+  {
+    "objectID": "about.html#stats-140xp-final-project",
+    "href": "about.html#stats-140xp-final-project",
+    "title": "Projects",
+    "section": "Stats 140XP Final Project",
+    "text": "Stats 140XP Final Project\nLink to download"
   }
 ]

@@ -2,12 +2,16 @@ project:
   type: website
 
 website:
-  title: "stats140xp_website"
+  title: "Alex Clare"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: about.qmd
+        text: Projects
+  
+  page-footer: 
+    right: "&copy; 2024, Alex Clare"
 
 format:
   html:
@@ -15,5 +19,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
-
+execute: 
+  freeze: auto
